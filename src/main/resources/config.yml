@@ -1,0 +1,8 @@
+DISCORD_TOKEN: 1234
+whitelist-igns: false
+playtesting-category-name: "Playtesting"
+playtesting-signup-channel-name: "playtesting-igns"
+playtesting-chat-channel-name: "playtesting-chat"
+playtesting-role-name: "Playtester"
+playtesting-role-hex-color: "#0fd9b7"
+discord-server-name: "Your Server Name Here"

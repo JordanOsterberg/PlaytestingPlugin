@@ -1,0 +1,9 @@
+name: PlaytestingPlugin
+version: 1.0.0
+main: dev.jcsoftware.playtestingplugin.PlaytestingPlugin
+commands:
+  playtesting:
+    description: Handle playtesting operations.
+permissions:
+  playtesting.admin:
+    description: Use playtesting commands.
